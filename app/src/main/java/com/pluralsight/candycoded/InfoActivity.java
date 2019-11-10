@@ -39,12 +39,6 @@ public class InfoActivity extends AppCompatActivity {
         }
     }
 
-    private void startActivity(Intent mapIntent) {
-    }
-
-    private PackageManager getPackageManager() {
-        return null;
-    }
 
     // ***
     // TODO - Task 3 - Launch the Phone Activity
